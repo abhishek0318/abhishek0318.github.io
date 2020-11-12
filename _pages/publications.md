@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications and preprints. 
-years: [2019, 2018]
+description: Publications. 
+years: [2020, 2018]
 ---
 
 {% for y in page.years %}
